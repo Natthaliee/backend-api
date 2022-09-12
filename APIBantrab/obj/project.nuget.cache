@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wp7C8Du2HVJ281iNweUv0PlGoxy1GxaGcev1OSff/CC/spqvLET92lFmaV9JjNnVvOznQKZMPSxmxdjXiJ+0gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natthaliee_molina\\source\\repos\\APIBantrab\\APIBantrab\\APIBantrab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natthaliee_molina\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
